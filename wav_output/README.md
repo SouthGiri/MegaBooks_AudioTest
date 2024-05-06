@@ -9,7 +9,8 @@
 노이즈 좀 있지만 퀄리티 괜찮.
 
 - crying person\
-사람 우는 소리가 좀 무서움
+사람 우는 소리가 좀 무서움\
+사람 우는 소리 품질 별로임
 
 - water stream in a forest\
 물 흐르는 소리인지 노이즈인지 잘 구분 안 됨
@@ -17,4 +18,8 @@
 - Sea waves with seagulls flying\
 이거 괜찮음
 
-- 
+- march\
+행진곡 관련 애들은 아직 다 별로
+
+- A boy smiling\
+얘도 별로임
